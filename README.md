@@ -10,3 +10,7 @@ Utilizing machine learning techniques to identify Parkinson's Disease.
 - https://www.kaggle.com/code/sagarbapodara/parkinson-detection-testing-predictive-system
 - Addition: https://www.kaggle.com/code/adhamtarek147/alzheimer-s-disease-prediction
 
+### Using Machine Learning to Analyze Voice Disorders for Parkinson's Disease Detection
+Developing a machine learning model that can accurately predict the presence of Parkinson's disease in an individual based on their voice recordings. 
+Parkinson's disease is a neurodegenerative disorder that affects movement, with symptoms that include tremors, stiffness, and difficulty with coordination.
+
