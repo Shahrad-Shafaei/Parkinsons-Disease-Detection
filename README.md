@@ -1,6 +1,6 @@
 # Parkinsons-Disease-Detection
 
-Utilizing machine learning techniques to identify Parkinson's Disease.
+Utilizing machine learning techniques to identify Parkinson's Disease characteristic.
 
 ### Ref: 
 - https://www.kaggle.com/code/nirmalgaud/parkinson-disease-detection/notebook
